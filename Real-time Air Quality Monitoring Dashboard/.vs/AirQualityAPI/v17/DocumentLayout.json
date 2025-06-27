@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\senith\\Desktop\\SE2 proj\\Real-time Air Quality Monitoring Dashboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD7618-B4BE-4683-AC2F-5ECA6F086459}|AirQualityAPI.csproj|c:\\users\\senith\\desktop\\se2 proj\\real-time air quality monitoring dashboard\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42DD7618-B4BE-4683-AC2F-5ECA6F086459}|AirQualityAPI.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD7618-B4BE-4683-AC2F-5ECA6F086459}|AirQualityAPI.csproj|c:\\users\\senith\\desktop\\se2 proj\\real-time air quality monitoring dashboard\\wwwroot\\js\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42DD7618-B4BE-4683-AC2F-5ECA6F086459}|AirQualityAPI.csproj|solutionrelative:wwwroot\\js\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD7618-B4BE-4683-AC2F-5ECA6F086459}|AirQualityAPI.csproj|c:\\users\\senith\\desktop\\se2 proj\\real-time air quality monitoring dashboard\\wwwroot\\js\\map.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42DD7618-B4BE-4683-AC2F-5ECA6F086459}|AirQualityAPI.csproj|solutionrelative:wwwroot\\js\\map.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD7618-B4BE-4683-AC2F-5ECA6F086459}|AirQualityAPI.csproj|c:\\users\\senith\\desktop\\se2 proj\\real-time air quality monitoring dashboard\\controllers\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DD7618-B4BE-4683-AC2F-5ECA6F086459}|AirQualityAPI.csproj|solutionrelative:controllers\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DD7618-B4BE-4683-AC2F-5ECA6F086459}|AirQualityAPI.csproj|c:\\users\\senith\\desktop\\se2 proj\\real-time air quality monitoring dashboard\\wwwroot\\admin\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42DD7618-B4BE-4683-AC2F-5ECA6F086459}|AirQualityAPI.csproj|solutionrelative:wwwroot\\admin\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SensorController.cs",
+              "DocumentMoniker": "C:\\Users\\senith\\Desktop\\SE2 proj\\Real-time Air Quality Monitoring Dashboard\\Controllers\\SensorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SensorController.cs",
+              "ToolTip": "C:\\Users\\senith\\Desktop\\SE2 proj\\Real-time Air Quality Monitoring Dashboard\\Controllers\\SensorController.cs",
+              "RelativeToolTip": "Controllers\\SensorController.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAowMsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:58:16.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\senith\\Desktop\\SE2 proj\\Real-time Air Quality Monitoring Dashboard\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\senith\\Desktop\\SE2 proj\\Real-time Air Quality Monitoring Dashboard\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AQIAAPcBAAAAAAAAAAAAwBECAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-30T18:47:26.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "config.js",
+              "DocumentMoniker": "C:\\Users\\senith\\Desktop\\SE2 proj\\Real-time Air Quality Monitoring Dashboard\\wwwroot\\js\\config.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\config.js",
+              "ToolTip": "C:\\Users\\senith\\Desktop\\SE2 proj\\Real-time Air Quality Monitoring Dashboard\\wwwroot\\js\\config.js",
+              "RelativeToolTip": "wwwroot\\js\\config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-30T18:46:40.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "map.js",
+              "DocumentMoniker": "C:\\Users\\senith\\Desktop\\SE2 proj\\Real-time Air Quality Monitoring Dashboard\\wwwroot\\js\\map.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\map.js",
+              "ToolTip": "C:\\Users\\senith\\Desktop\\SE2 proj\\Real-time Air Quality Monitoring Dashboard\\wwwroot\\js\\map.js",
+              "RelativeToolTip": "wwwroot\\js\\map.js",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAswMUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-30T18:46:36.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dashboard.html",
+              "DocumentMoniker": "C:\\Users\\senith\\Desktop\\SE2 proj\\Real-time Air Quality Monitoring Dashboard\\wwwroot\\admin\\dashboard.html",
+              "RelativeDocumentMoniker": "wwwroot\\admin\\dashboard.html",
+              "ToolTip": "C:\\Users\\senith\\Desktop\\SE2 proj\\Real-time Air Quality Monitoring Dashboard\\wwwroot\\admin\\dashboard.html",
+              "RelativeToolTip": "wwwroot\\admin\\dashboard.html",
+              "ViewState": "AQIAADkEAAAAAAAAAAAYwEkEAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-26T15:47:58.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
